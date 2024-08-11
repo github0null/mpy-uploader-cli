@@ -11,6 +11,7 @@ import time
 import traceback
 import serial
 from optparse import OptionParser
+import rshell
 
 # ===== const =====
 
